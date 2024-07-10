@@ -30,8 +30,10 @@ SECRET_KEY = 'django-insecure-&nvagev!ikub((a2w0ync=ze#8mre55^e610(@uaamn3k)2x%y
 #DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-joschanuk-djangoblog-mc3dx5jqz0a.ws.codeinstitute-ide.net',
-                '.herokuapp.com']
+ALLOWED_HOSTS = [
+    '8000-joschanuk-djangoblog-mc3dx5jqz0a.ws.codeinstitute-ide.net',
+    '.herokuapp.com',
+]
 
 
 # Application definition
