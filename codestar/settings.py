@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-&nvagev!ikub((a2w0ync=ze#8mre55^e610(@uaamn3k)2x%y
 
 # SECURITY WARNING: don't run with debug turned on in production!
 #DEBUG = True
-DEBUG = False
+DEBUG = False # To enable when deploy to Heroku
 
 ALLOWED_HOSTS = [
     '8000-joschanuk-djangoblog-mc3dx5jqz0a.ws.codeinstitute-ide.net',
